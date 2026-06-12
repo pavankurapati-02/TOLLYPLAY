@@ -1,0 +1,6 @@
+{
+  "name": "TollyPlay",
+  "description": "An offline party game app centering on Telugu cinema with Heads Set Go and Swipe Charades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
